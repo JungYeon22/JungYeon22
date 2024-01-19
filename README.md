@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=android&logoColor=#34A853"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Android-배경색?style=flat&logo=android&logoColor=#34A853"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungYeon22&show_icons=true&theme=jolly)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=jolly&show_icons=true)
