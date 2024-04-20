@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=JungYeonHub%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=JungYeonHub&fontSize=90" />
 
 <!--
 **JungYeon22/JungYeon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
